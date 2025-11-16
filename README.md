@@ -1,4 +1,4 @@
- Reproductor de Audio MP3 con estilo como un ipod
+Desktop APP: Reproductor de Audio MP3 con estilo como un ipod
 
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/7bbc88a6-1c9d-4a4d-9092-4d241cec602b" />
