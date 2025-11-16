@@ -41,3 +41,4 @@ Asegúrate de tener instalado:
     ```
 
 
+Al pulsar MENU eliges tu MP3 que ya has descargado prefiamente y le das al boton de reproducción.
