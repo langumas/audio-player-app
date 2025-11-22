@@ -51,4 +51,4 @@ Al pulsar MENU eliges tu MP3 que ya has descargado previamente y le das al boton
 ### Progress
 - [ ] Añadir algo en la pantalla
 - [ ] Agregar BD o canciones en array
-- [ ] 
+- [ ] Back and Forward Btn
