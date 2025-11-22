@@ -42,3 +42,13 @@ Asegúrate de tener instalado:
 
 
 Al pulsar MENU eliges tu MP3 que ya has descargado previamente y le das al boton de reproducción.
+
+---
+
+# to-do-web
+
+
+### Progress
+- [ ] Añadir algo en la pantalla
+- [ ] Agregar BD o canciones en array
+- [ ] 
